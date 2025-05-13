@@ -1,5 +1,5 @@
 # TRXos
-[![SourceForge](https://img.shields.io/badge/SourceForge-TRXos-blue?logo=sourceforge)](https://sourceforge.net/projects/trxos/)
+[![SourceForge](https://img.shields.io/badge/SourceForge-TRXos-blue?logo=sourceforge)](https://sourceforge.net/p/trxos/)
 [![Download TRXos](https://img.shields.io/sourceforge/dt/trxos.svg)](https://sourceforge.net/projects/trxos/files/latest/download)
 
 
@@ -37,12 +37,6 @@ More tools and updates will be included in future versions.
 You can download the latest version of TRXos here:
 
 👉 [Download TRXos v1](https://sourceforge.net/projects/trxos/files/Dev)
-
----
-
-## 🔗 Additional Resources
-
-- **SourceForge Project Page**: [https://sourceforge.net/p/trxos](https://sourceforge.net/p/trxos)
 
 ---
 
