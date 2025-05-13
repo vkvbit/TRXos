@@ -48,7 +48,9 @@ We welcome contributions! Feel free to open issues or submit pull requests for b
 
 ## 📜 License
 
-TRXos and the included software components are distributed under their respective open-source licenses. Please refer to the documentation of each tool for licensing details.
+TRXos project is licensed under the [GNU General Public License v3.0 (GPLv3)](https://www.gnu.org/licenses/gpl-3.0.html).
+
+The included software components are distributed under their respective open-source licenses. Please refer to the documentation of each tool for licensing details.
 
 ---
 
