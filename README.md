@@ -42,7 +42,9 @@ You can download the latest version of TRXos here:
 
 ## 🛠️ Contributing
 
-We welcome contributions! Feel free to open issues or submit pull requests for bug fixes, feature requests, or additional tool integrations.
+I welcome contributions! Feel free to open issues or submit pull requests for bug fixes, feature requests, or additional tool integrations.
+
+You may contact me over Keybase: https://keybase.io/vkvbit
 
 ---
 
